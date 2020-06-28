@@ -2,6 +2,6 @@
 A game created with Unity about the survival of college student life at UHart
 
 <h2> How to run </h2>
- <b>1)</b> Download the executible <p>
- <b>2)</b> Run the .exe file <p>
- <b>3)</b> Enjoy your time at UHart
+ 1) Download the executible<br>
+ 2) Run the .exe file<br>
+ 3) Enjoy your time at UHart
